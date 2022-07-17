@@ -22,7 +22,7 @@ This repository is part of [EhViewer](https://github.com/asuka-mio/Ehviewer)
 1. Views and overlays list on the left, information of selected view listed on the right.
    ![info](screenshots/info.png)
 
-2. Hold on `Alt` key to show the distance of each views
+2. Hold on `Alt` key to show the distance between each views
    ![alt](screenshots/alt.gif)
 
 3. Click on `Enter` or `Shift+Enter` to "zoom" between different views
