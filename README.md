@@ -23,10 +23,10 @@ This repository is part of [EhViewer](https://github.com/asuka-mio/Ehviewer)
    ![info](screenshots/info.png)
 
 2. Hold on `Alt` key to show the distance between each views
-   ![alt](screenshots/alt.mp4)
+   https://github.com/txyyh/EhViewer_Design/raw/ma%D1%95ter/screenshots/alt.mp4
 
 3. Click on `Enter` or `Shift+Enter` to "zoom" between different views
-   ![enter](screenshots/enter.mp4)
+   https://github.com/txyyh/EhViewer_Design/raw/ma%D1%95ter/screenshots/enter.mp4
 
 More tips about Figma can get from search Engine :)
 
