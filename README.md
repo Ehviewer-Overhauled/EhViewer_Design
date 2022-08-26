@@ -3,6 +3,7 @@
 This repository is part of [EhViewer](https://github.com/asuka-mio/Ehviewer)
 
 ![Preview](https://user-images.githubusercontent.com/41893946/173224178-59f4c767-a128-4ddf-bbf5-d676b1c83298.png)
+![icon](https://user-images.githubusercontent.com/41893946/186848101-b48a9888-8038-477f-ab0c-ebff751478d3.png)
 
 ## Usage
 
